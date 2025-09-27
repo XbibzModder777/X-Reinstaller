@@ -2,7 +2,7 @@
 
 ![Version](https://img.shields.io/badge/Version-3.4-blue)
 ![License](https://img.shields.io/badge/License-GPL--3.0-green)
-![Platform](https://t.me/XbibzOfficial)(https://img.shields.io/badge/Platform-Linux-orange)
+![Platform](https://img.shields.io/badge/Platform-Linux-orange)
 ![Author](https://img.shields.io/badge/Author-Xbibz%20Official-purple)
 
 A powerful bash script for managing Kali Linux installations, including creating bootable USB drives, reinstalling Kali while preserving data, and migrating from Ubuntu to Kali Linux.
